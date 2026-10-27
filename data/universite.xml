@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<issae>
+  <specialite nom="Informatique">
+   <etudiant username="student1@example.invalid" password="synthetic-demo-only-1">
+      <valeur>NFP121</valeur>
+      <valeur>NSY103</valeur>
+      <valeur>GDN100</valeur>
+    </etudiant>
+
+    <etudiant username="student2@example.invalid" password="synthetic-demo-only-2">
+      <valeur>NFP121</valeur>
+      <valeur>NFA035</valeur>
+      <valeur>NFP107</valeur>
+    </etudiant>
+
+    <etudiant username="student3@example.invalid" password="synthetic-demo-only-3">
+      <valeur>NFA032</valeur>
+      <valeur>NFA035</valeur>
+      <valeur>NFA007</valeur>
+      <valeur>NFA042</valeur>
+    </etudiant>
+  </specialite>
+
+  <specialite nom="Electronique">
+    <etudiant username="student4@example.invalid" password="synthetic-demo-only-4">
+      <valeur>ELE201</valeur>
+      <valeur>ELE305</valeur>
+    </etudiant>
+  </specialite>
+</issae>
